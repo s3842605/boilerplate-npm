@@ -11,5 +11,6 @@
     "type": "git",
     "url": "https://idontknow/todo.git"
   },
-  "author": "Dushyant Mallya"
+  "author": "Dushyant Mallya",
+  "description": "My first node project"
 }
